@@ -1,0 +1,1337 @@
+email,articles
+"Subject: RE: PRD NxtPad
+
+Salut Guillaume,
+
+Je fouille présentement dans mes vieux mails.
+
+J’aimerais avoir un peu plus d’information quant à ce point.
+
+Est-ce qu’on a une bonne définition de ce qu’on veut dire par ‘’eau trop chaude’’ ?
+
+J’imagine qu’on parle d’une situation où le pack (au travers de son senseur) évalue que la température de l’eau est aller au-delà de 40 °C ?
+
+Si tel est le cas, j’implémenterais effectivement une rétroaction software où l’écran du keypad flash avec un symbol danger.
+
+Les lumières peuvent également flasher si jamais cette option est installée.
+
+Ce sera un requis que je devrais rajouter pour l’aspect software du projet.","Title: Hot Water Alert System Implementation
+
+Category: Upcoming Feature
+
+Product: in.k1000
+
+To enhance safety and user experience, a new feature is being developed for Gecko spa systems that will address situations where water temperatures exceed a safe threshold. Specifically, if the water temperature is detected to be over 40 °C (104 °F), an alert system will be activated. This system involves a visual cue on the in.k1000 keypad, where the display will flash a danger symbol, warning users about the excessively hot water.
+
+In addition to the keypad alert, there will be an option to have the spa lights flash, provided that this feature is installed in the setup. This will offer an additional layer of notification, ensuring that users are promptly alerted to the hazardous condition. As part of the ongoing project developments, this software requirement will be incorporated to enhance user safety and provide clear, immediate communication of critical water temperature conditions."
+"Subject: RE: Approbation fiche produit Gecko waterlab
+
+Salut Nancy,
+
+On converge!
+
+Voici mes quelques commentaires en ordre d’apparition dans le document :
+
+*	Purposely designed sensing chamber for seamless under-the-spa inline conditions integration
+*	Highly durable probe 
+*	All-in-one highly precise sensors further restraining interactions which monitors your water acidity, temperature, and sanitation
+*	Minimize calibration requirement 
+*	Single App controling  controlling your spa enabling 24/7 water monitoring 
+*	Strong and proven water recommendation engine reducing guesswork of  in water chemistry
+*	Easy, no interpretation Straightforward access 
+*	Simple, easy-to-follow instructions 
+*	Accurate & repetitive  and reliable results due 
+
+Vous trouverez ses commentaires dans le document également.
+
+N’hésitez pas si vous avez des questions,
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Seamless Integration of Gecko Waterlab Sensing Chamber
+Category: Knowledge
+Product: Gecko Waterlab
+
+The Gecko Waterlab has been purposefully designed to integrate seamlessly under the spa for inline conditions, a crucial feature for ease of use and efficiency. This design ensures that the sensing chamber is easily incorporated into the spa system without requiring extensive modification or complex installation procedures. The inclusion of highly durable probes contributes to the longevity and reliability of the system, ensuring that users can depend on consistent performance over time. Additionally, the all-in-one sensors provide precise monitoring of water parameters, including acidity, temperature, and sanitation, streamlining the process of maintaining optimal water quality. This feature is further enhanced by a reduction in calibration requirements, making the Gecko Waterlab both user-friendly and low-maintenance. Such seamless integration with spas helps manufacturers simplify assembly processes and ensures end-users can enjoy a smoother spa experience with better water management."
+"Subject: RE: Approbation fiche produit Gecko waterlab
+
+Salut Nancy,
+
+On converge!
+
+Voici mes quelques commentaires en ordre d’apparition dans le document :
+
+*	Purposely designed sensing chamber for seamless under-the-spa inline conditions integration
+*	Highly durable probe 
+*	All-in-one highly precise sensors further restraining interactions which monitors your water acidity, temperature, and sanitation
+*	Minimize calibration requirement 
+*	Single App controling  controlling your spa enabling 24/7 water monitoring 
+*	Strong and proven water recommendation engine reducing guesswork of  in water chemistry
+*	Easy, no interpretation Straightforward access 
+*	Simple, easy-to-follow instructions 
+*	Accurate & repetitive  and reliable results due 
+
+Vous trouverez ses commentaires dans le document également.
+
+N’hésitez pas si vous avez des questions,
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Streamlined Spa Control with Gecko Waterlab
+Category: Knowledge
+Product: Gecko Waterlab
+
+The Gecko Waterlab offers a single application for controlling your spa, allowing 24/7 water monitoring and management through a user-friendly platform. This unified control system simplifies the user experience, providing easy access to spa diagnostics and settings at any time. The app interfaces with a powerful water recommendation engine, which minimizes guesswork for users by offering informed suggestions based on current water chemistry. This not only enhances the user experience by providing clear and actionable insights but also assists in maintaining the spa's optimal performance. Straightforward instructions and easy-to-interpret data ensure that spa owners can manage their systems with confidence and minimal effort. This app-centric approach represents a significant advancement in spa technology by integrating multiple monitoring functions into a single, cohesive user interface."
+"Subject: RE: Approbation fiche produit Gecko waterlab
+
+Salut Nancy,
+
+On converge!
+
+Voici mes quelques commentaires en ordre d’apparition dans le document :
+
+*	Purposely designed sensing chamber for seamless under-the-spa inline conditions integration
+*	Highly durable probe 
+*	All-in-one highly precise sensors further restraining interactions which monitors your water acidity, temperature, and sanitation
+*	Minimize calibration requirement 
+*	Single App controling  controlling your spa enabling 24/7 water monitoring 
+*	Strong and proven water recommendation engine reducing guesswork of  in water chemistry
+*	Easy, no interpretation Straightforward access 
+*	Simple, easy-to-follow instructions 
+*	Accurate & repetitive  and reliable results due 
+
+Vous trouverez ses commentaires dans le document également.
+
+N’hésitez pas si vous avez des questions,
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Precision and Reliability in Spa Water Management
+Category: Knowledge
+Product: Gecko Waterlab
+
+Gecko Waterlab focuses on delivering accurate, repetitive, and reliable results regarding spa water management. The technologically advanced sensors included within the system are engineered for high precision, consistently providing trustworthy data on water acidity, temperature, and sanitation levels. This precision is critical for ensuring safe and enjoyable spa experiences, as it informs necessary adjustments to the water chemistry, reducing the need for manual checks. The minimized requirement for frequent calibrations further enhances reliability, offering spa owners peace of mind with less ongoing maintenance. Additionally, the straightforwardness and ease of interpreting the results provided by Gecko Waterlab reinforce the user-friendly nature of the product. These features make the Gecko Waterlab an invaluable tool for both manufacturers and spa users, merging advanced water monitoring capabilities with ease of use and minimal maintenance requirements."
+"Subject: Jerome Landry vous a attribué une tâche dans « PRD_ECO2 »
+
+<https://groupegecko.sharepoint.com/sites/GeckoProcesses/PMO%20%20Opportunities%20Management%20%20Documentation/OPJ-35%20-%20Eco%202.0/1_Mandate-Scope/PRD_ECO2.xlsx?d=w464a3ed89d4f489fb596769966e18bed&nav=MTBfezMzMjhFMTYxLTlCNkUtNDE5Qi04MUVFLUI4NDdEMTFEMDY4Nn1fezIyQTAwNUFFLTUwQkUtNDg1NC04QjBCLUVENThGMkZDQThBNX0&ne=ew0KICAidnQiOiB7DQogICAgImIiOiAxMTgwNTAxDQogIH0NCn0&e=Go3jHWIHOUmpgfBwInAwOw&at=44> 	PRD_ECO2.xlsx <https://groupegecko.sharepoint.com/sites/GeckoProcesses/PMO%20%20Opportunities%20Management%20%20Documentation/OPJ-35%20-%20Eco%202.0/1_Mandate-Scope/PRD_ECO2.xlsx?d=w464a3ed89d4f489fb596769966e18bed&nav=MTBfezMzMjhFMTYxLTlCNkUtNDE5Qi04MUVFLUI4NDdEMTFEMDY4Nn1fezIyQTAwNUFFLTUwQkUtNDg1NC04QjBCLUVENThGMkZDQThBNX0&ne=ew0KICAidnQiOiB7DQogICAgImIiOiAxMTgwNTAxDQogIH0NCn0&e=Go3jHWIHOUmpgfBwInAwOw&at=44> 
+
+Requirements
+
+ 	Christian Richard a ajouté a commentaire
+
+16' semble limitatif considérant les swim spa actuellement vise 25' de plus ce requis indique que ce doit être du USB. Je reformulerais le tout par: Cable must enable flexibility and support up to 25' of distance between the keypad and ""cortex""
+
+ 	Christian Richard a ajouté a commentaire
+
+Ensuite, qu'advient-il de nos clients qui font du DIY, ou des customs spa avec des control a plus longue distance que 25'. Le protocol USB est plutôt limité en distance. Doit-on prévoir dans le Roadmap un ""signal extender""?
+
+ 	Jerome Landry vous a attribué une tâche
+
+Suite à quelques discussions avec @Olivier Charest , j'ai compris que la distance (length) doit se limité à 16'' avant qu'il y ait de la dégradation. Nous devrons donc considérer effectivement un signal extender si les besoins sont au dela de 16''. @Olivier Charest qu'en pense tu?
+
+E166: The cable must enable flexibility and support up to 16' of distance between the Cortex and the Keypad	 
+Accéder au commentaire <https://groupegecko.sharepoint.com/sites/GeckoProcesses/PMO%20%20Opportunities%20Management%20%20Documentation/OPJ-35%20-%20Eco%202.0/1_Mandate-Scope/PRD_ECO2.xlsx?d=w464a3ed89d4f489fb596769966e18bed&nav=MTBfezMzMjhFMTYxLTlCNkUtNDE5Qi04MUVFLUI4NDdEMTFEMDY4Nn1fezIyQTAwNUFFLTUwQkUtNDg1NC04QjBCLUVENThGMkZDQThBNX0&ne=ew0KICAidnQiOiB7DQogICAgImIiOiAxMTgwNTAxDQogIH0NCn0&e=Go3jHWIHOUmpgfBwInAwOw&at=44>  	
+Pourquoi est-ce que je reçois cette notification d’Office ? <https://go.microsoft.com/fwlink/?linkid=2113319> 
+
+Déclaration de","Title: Enhancing Cable Flexibility for Gecko Devices
+
+Category: Knowledge
+
+Product: in.k1000
+
+To optimize installation and operation of spa systems, there is a targeted requirement that the cable connecting the keypad to the Gecko ""Cortex"" must support up to 16 feet of distance. This ensures flexibility for different spa configurations, particularly for larger swim spas which can require extended distances.
+
+The current specification highlights a limitation of the USB protocol in retaining signal integrity over greater distances. USB cables typically experience signal degradation beyond a certain length, generally around 16 feet. This presents challenges for Do-It-Yourself (DIY) installations or custom spa builds where the control distances exceed this measure.
+
+Consideration is being given to introducing a signal extender into the product roadmap. This development would allow for greater flexibility and distance without compromising the signal integrity crucial for seamless spa operation. Anticipating customer needs for greater lengths, implementing a signal extender could bridge the gap effectively and maintain the reliability expected from Gecko products.
+
+Implementers and end-users should remain aware of cable limitations and stay tuned for future enhancements which are in deliberation, indicating proactive solution development for extending system functionality."
+"Subject: Jerome Landry a répondu à un commentaire dans « PRD_ECO2 »
+
+<https://groupegecko.sharepoint.com/sites/GeckoProcesses/PMO%20%20Opportunities%20Management%20%20Documentation/OPJ-35%20-%20Eco%202.0/1_Mandate-Scope/PRD_ECO2.xlsx?d=w464a3ed89d4f489fb596769966e18bed&nav=MTBfezMxOEZFQTUyLTYwN0YtNDIzNi04RTQzLTIyNDI4Mjc2NkFDRn1fezIyQTAwNUFFLTUwQkUtNDg1NC04QjBCLUVENThGMkZDQThBNX0&ne=ew0KICAidnQiOiB7DQogICAgImIiOiAxMTU3OTAyDQogIH0NCn0&e=XxyGBha7n0isX0aS4MUeIg&at=16> 	PRD_ECO2.xlsx <https://groupegecko.sharepoint.com/sites/GeckoProcesses/PMO%20%20Opportunities%20Management%20%20Documentation/OPJ-35%20-%20Eco%202.0/1_Mandate-Scope/PRD_ECO2.xlsx?d=w464a3ed89d4f489fb596769966e18bed&nav=MTBfezMxOEZFQTUyLTYwN0YtNDIzNi04RTQzLTIyNDI4Mjc2NkFDRn1fezIyQTAwNUFFLTUwQkUtNDg1NC04QjBCLUVENThGMkZDQThBNX0&ne=ew0KICAidnQiOiB7DQogICAgImIiOiAxMTU3OTAyDQogIH0NCn0&e=XxyGBha7n0isX0aS4MUeIg&at=16> 
+
+Requirements
+
+ 	Vous a laissé un commentaire
+
+@Jerome Landry , il faut discuter de ceci afin que je comprenne bien le besoin
+
+ 	Vous a laissé un commentaire
+
+@Jerome Landry , je vais te rephraser le tout et t'aviser.
+
+ 	Jerome Landry a répondu
+
+Il devrait y avoir une action de la part du pack (ça peut être aussi simple que d'envoyer une alerte au Cortex) s'il y a du overheating ou que le GFCI circuit a été tripped. C'est pas mal ''basic'' et je suis certain qu'on a déjà ça
+
+E220: The power management product must have a failsafe mode when a critical variable (water temperature, GFCI circuit open) is activated	 
+Accéder au commentaire <https://groupegecko.sharepoint.com/sites/GeckoProcesses/PMO%20%20Opportunities%20Management%20%20Documentation/OPJ-35%20-%20Eco%202.0/1_Mandate-Scope/PRD_ECO2.xlsx?d=w464a3ed89d4f489fb596769966e18bed&nav=MTBfezMxOEZFQTUyLTYwN0YtNDIzNi04RTQzLTIyNDI4Mjc2NkFDRn1fezIyQTAwNUFFLTUwQkUtNDg1NC04QjBCLUVENThGMkZDQThBNX0&ne=ew0KICAidnQiOiB7DQogICAgImIiOiAxMTU3OTAyDQogIH0NCn0&e=XxyGBha7n0isX0aS4MUeIg&at=16>  	
+Pourquoi est-ce que je reçois cette notification d’Office ? <https://go.microsoft.com/fwlink/?linkid=2113319> 
+
+Déclaration de","Title: Implementation of Failsafe Mode in Power Management
+
+Category: Knowledge
+
+Product: in.ye, in.xe
+
+The implementation of a failsafe mode in the power management product is essential to ensure safe operation under critical conditions. This feature activates when a critical variable, such as water temperature reaching unsafe levels or the Ground Fault Circuit Interrupter (GFCI) circuit being open (tripped), is detected. The purpose of the failsafe mode is to prevent any potential damage to the spa unit by immediately taking corrective actions. This could be as simple as sending an alert to the Cortex system, informing the user or manufacturer about the abnormal condition.
+
+Ensuring that the power management system has a failsafe mode addresses the basic safety requirements that prevent overheating and protect against short circuits. When the GFCI detects a ground fault or an excess of heat, the system should trigger a series of automated responses to safely manage the scenario. This feature is fundamental to maintaining operational safety and is likely already integrated based on existing product capabilities. Regular testing and verification of this failsafe system are advised to ensure functionality remains intact over time."
+"Subject: RE: Interview for SpaRetailer article about Gecko hot tub water monitor
+
+Salut Véronique,
+
+Voici mes réponses aux questions de la journaliste :
+
+1. Could you give me an overview of what the water monitor is? 
+
+*	Gecko Waterlab monitors temperature, pH (water acidity) and ORP (sanitation level) of a spa vessel and reports back this information through the Gecko App.
+	We’ve built in a recommendation engine 
+
+2. Tell me a bit more about its development. What has the process involved? Why create this?
+
+*	Using surveys and interviews, we concluded very rapidly that water maintenance was the #1 pain points for spa owners.
+	As such, we started investigating what were the current available solutions on the market and we came 
+
+	1.	Most, if not all, of the water monitoring devices were what we call  ‘’floaters’’, meaning they would float on the water. 
+		These products would have a short lifespan since water would inevitably infiltrate within the product.
+	2.	A maintenance burden was necessary for every product since water monitoring did necessitate the use of consumable
+		Be it a probe or a cassette, the spa owner would need 
+		Let’s not forget that all these current devices also run on battery.
+	3.	Even when the spa owner manages 
+
+It thus became our mission 
+
+3. Why partner 
+
+*	Water chemistry testing is a whole world on its own and Gecko needed 
+	General Galactic, the company which owns Crystal Water, checked all these boxes and were instrumental in guiding us through the development of our product.
+	In fact, their innovative and modern approach 
+
+4. Gecko will ultimately be the face of a water monitor in the hot tub industry. What does that mean for the company?
+
+*	Gecko’s state objective is 
+	This means thus means going beyond the topside and controls business.
+	In fact, we want the spa owner 
+
+5. When do you expect it 
+
+*	The Waterlab will launch during the Dallas trade show on November 12th 2024.
+
+6. How will the product overall impact the hot tub + hot tub owners?
+
+*	The Waterlab is the first fully connected product, and we are eager 
+	Continuous improvement and development bring 
+
+7. Anything else you think readers should know?
+
+*	Stay tuned for the release and lets work together on creating the ultimate spa experience.
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Introducing Gecko Waterlab: A Revolution in Spa Water Monitoring
+Category: Knowledge
+Product: Gecko Waterlab
+
+Gecko Waterlab is an innovative spa water monitoring system designed to address one of the primary concerns of spa owners—effective water maintenance. This advanced device monitors the temperature, pH levels, and ORP (Oxidation Reduction Potential) of spa water, providing users with real-time data through the Gecko App. One key innovation of the Waterlab is the integrated recommendation engine, which offers actionable insights to maintain optimal water conditions, ensuring a safe and pleasant spa experience.
+
+The development of Waterlab stemmed from extensive research involving surveys and interviews, which identified water maintenance as a significant pain point for spa owners. Conventional water monitoring devices, often designed as floating units, faced issues with water infiltration that drastically shortened their lifespan. These devices also required regular maintenance with consumable items such as probes or cassettes, adding to the owners' burden. Recognizing these challenges, Gecko set out to create a robust and user-friendly solution.
+
+Avoiding the pitfalls of existing products, Waterlab is engineered to offer long-term reliability without the need for constant upkeep. By eliminating the dependence on consumables and enhancing durability against water damage, the Waterlab significantly reduces the operational hassle for users. As it prepares for launch in November 2024, the introduction of Gecko Waterlab marks a substantial advancement in fully connected spa management technologies, promising a transformative impact on the hot tub industry and its users."
+"Subject: Warning up to now
+
+Probe Warning:
+
+*	The probe must be kept in temperature above 0°C (32°F).
+*	The probe must avoid long air exposure (over 15 min).
+*	Prior 
+*	The probe must be stored on its lengthwise surface and NEVER on its top or bottom surface
+*	The storage bottle must be kept on the probe until the installation of the probe
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Proper Handling and Storage of Probes for Installation  
+Category: Knowledge  
+Product: Gecko Waterlab  
+
+When using probes with Gecko Waterlab products, it is essential to follow specific guidelines to ensure their optimal performance and longevity. First and foremost, the probes must be kept at temperatures above 0°C (32°F) to prevent damage from freezing. Exposure to air should be minimized, as prolonged exposure exceeding 15 minutes can lead to inaccurate readings or damage. Additionally, probes should always be stored on their lengthwise surface, never on the top or bottom surfaces, to maintain their structural integrity. Finally, keep the storage bottle on the probe until it is installed, which helps preserve the probe's condition until it is ready for use. Adhering to these guidelines will ensure that your probes provide reliable and accurate measurements during spa operations."
+"Subject: RE: WaterLab
+
+Hey Jim,
+
+Here would be my responses:
+
+1.	I agree 
+	Improvements on our UI is part of our roadmap, and we’ve specifically added a member 
+	I’d like 
+
+2.	Identifying the best pH range can change 
+	However, here are some important facts:
+
+	*	pH, while an essential for chemical reaction, is mostly balanced 
+	*	Acidic water (pH lower than 7) will make sanitizer more efficient, but will also make water more uncomfortable
+	*	Human tears have an average pH value of 7.4
+	*	The CPO certification (Certified Pool&Spa Operator) gives a range of 7.2 to 7.8 as being adequate range for pH 
+
+We have no issues in providing a custom range for either bullfrog spas or for spas using frog@ease systems.
+After all, we monitor pH and ORP and compare these values to ‘’industry standards’’ (which in our case is the CPO certification).
+Let me know what you think.
+
+3.	We currently have two probes which detects temperature.
+	Our next version of the app, which will be available upon launch, will eliminate the value provided 
+	Both sensors are at different positions in the tubing so this may lead 
+	Can you confirm that the value provided 
+
+4.	This falls within the first point above, improvement of UI.
+	Our product is intended 
+
+	*	A test strip scanner which would provide complimentary information on your water chemistry (Alkalinity, Hardness, CYA) which we call a water report
+	*	A chemical scanner which would recognize the chemical you are using and then, do some calculation based on your pH/ORP and the water report and then tell you the exact amount of chemicals 
+
+Let me know if you can play around 
+If need be, I can jump into a call and check those 
+
+Let me know if you are ok 
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Understanding pH Levels in Spa Water 
+Category: Knowledge
+Product: Gecko Waterlab
+
+The pH level of spa water is a crucial factor in maintaining both the efficiency of sanitizers and the comfort of users. Acidic water, with a pH value below 7, can enhance the efficiency of sanitizers but may result in discomfort for users. To strike an optimal balance, it's recommended to maintain the spa water pH within the range of 7.2 to 7.8, as specified by the Certified Pool & Spa Operator (CPO) certification guidelines. Gecko Waterlab monitors pH and ORP levels and aligns these readings with industry standards, specifically those outlined by the CPO certification. Custom pH ranges can be offered for certain spa systems, including those using frog@ease, ensuring both performance and comfort are maintained effectively."
+"Subject: RE: WaterLab
+
+Hey Jim,
+
+Here would be my responses:
+
+1.	I agree 
+	Improvements on our UI is part of our roadmap, and we’ve specifically added a member 
+	I’d like 
+
+2.	Identifying the best pH range can change 
+	However, here are some important facts:
+
+	*	pH, while an essential for chemical reaction, is mostly balanced 
+	*	Acidic water (pH lower than 7) will make sanitizer more efficient, but will also make water more uncomfortable
+	*	Human tears have an average pH value of 7.4
+	*	The CPO certification (Certified Pool&Spa Operator) gives a range of 7.2 to 7.8 as being adequate range for pH 
+
+We have no issues in providing a custom range for either bullfrog spas or for spas using frog@ease systems.
+After all, we monitor pH and ORP and compare these values to ‘’industry standards’’ (which in our case is the CPO certification).
+Let me know what you think.
+
+3.	We currently have two probes which detects temperature.
+	Our next version of the app, which will be available upon launch, will eliminate the value provided 
+	Both sensors are at different positions in the tubing so this may lead 
+	Can you confirm that the value provided 
+
+4.	This falls within the first point above, improvement of UI.
+	Our product is intended 
+
+	*	A test strip scanner which would provide complimentary information on your water chemistry (Alkalinity, Hardness, CYA) which we call a water report
+	*	A chemical scanner which would recognize the chemical you are using and then, do some calculation based on your pH/ORP and the water report and then tell you the exact amount of chemicals 
+
+Let me know if you can play around 
+If need be, I can jump into a call and check those 
+
+Let me know if you are ok 
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Temperature Detection Enhancements in Upcoming App Version
+Category: Upcoming Feature
+Product: Gecko Waterlab
+
+Gecko Waterlab is set to enhance its functionality in its upcoming app version by improving the accuracy of temperature readings within spa systems. The current system employs two separate temperature probes placed at different locations in the tubing. This setup sometimes leads to discrepancies in temperature readings. The forthcoming app version will address this by eliminating inconsistent values and providing more reliable and precise temperature data. This improvement aims to enhance the user experience by ensuring consistent and accurate temperature monitoring, contributing significantly to the efficient operation and enjoyment of spa products."
+"Subject: RE: WaterLab
+
+Hey Jim,
+
+Here would be my responses:
+
+1.	I agree 
+	Improvements on our UI is part of our roadmap, and we’ve specifically added a member 
+	I’d like 
+
+2.	Identifying the best pH range can change 
+	However, here are some important facts:
+
+	*	pH, while an essential for chemical reaction, is mostly balanced 
+	*	Acidic water (pH lower than 7) will make sanitizer more efficient, but will also make water more uncomfortable
+	*	Human tears have an average pH value of 7.4
+	*	The CPO certification (Certified Pool&Spa Operator) gives a range of 7.2 to 7.8 as being adequate range for pH 
+
+We have no issues in providing a custom range for either bullfrog spas or for spas using frog@ease systems.
+After all, we monitor pH and ORP and compare these values to ‘’industry standards’’ (which in our case is the CPO certification).
+Let me know what you think.
+
+3.	We currently have two probes which detects temperature.
+	Our next version of the app, which will be available upon launch, will eliminate the value provided 
+	Both sensors are at different positions in the tubing so this may lead 
+	Can you confirm that the value provided 
+
+4.	This falls within the first point above, improvement of UI.
+	Our product is intended 
+
+	*	A test strip scanner which would provide complimentary information on your water chemistry (Alkalinity, Hardness, CYA) which we call a water report
+	*	A chemical scanner which would recognize the chemical you are using and then, do some calculation based on your pH/ORP and the water report and then tell you the exact amount of chemicals 
+
+Let me know if you can play around 
+If need be, I can jump into a call and check those 
+
+Let me know if you are ok 
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Enhanced Water Chemistry Analysis Tools: Test Strip and Chemical Scanners
+Category: Upcoming Feature
+Product: Gecko Waterlab
+
+The future iterations of Gecko Waterlab will introduce advanced features designed to provide a comprehensive analysis of spa water chemistry. A new test strip scanner will offer additional insights into critical water chemistry parameters, such as alkalinity, hardness, and cyanuric acid (CYA) levels. This feature, known as the water report, will aid users in maintaining optimal spa conditions. Furthermore, a chemical scanner will identify the specific chemicals used by the user and perform calculations based on existing pH and ORP levels. This tool will supply precise dosage recommendations, ensuring the correct amount of chemicals are used to maintain ideal water conditions, thereby optimizing both performance and user safety. These innovations represent significant strides in offering users detailed and actionable water chemistry information."
+"Subject: FIFO pour les probes
+
+Quelques questions :
+
+1.	Je suis inquiet pour de vrai, je peux drop complètement les deux premières phrases, mais j’ai l’impression qu’il faut du contexte
+2.	Est-ce que je rajoute Sergio ou c’est trop ‘’in your face’’ 
+
+	a.	Si je le rajoute, je change la dernière phrase pour dire ‘’how I and Sergio can help’’
+
+Est-ce que je rajoute d’autre monde ?
+
+Let me know,
+
+J’ai reçu le contrat d’Alpha par rapport à la warranty.
+
+Va falloir être créatif puis je veux vérifier avec toi que j’ai l’autorité (produit purement IMO) d’exiger certaines conditions.
+
+Je te cédule dequoi de tôt si jamais ça ne t’adonne pas ce soir
+
+____________________________
+
+Hey Ernesto,
+
+Following a comment which was made during the negociation process 
+
+In fact, this process was mentioned as being a potential source of conflict 
+
+The waterlab has some components (the probe) which do require, at the very least, a FIFO process (so no need for full blown traceability).
+
+The supplier has explicitly stated that the storage liquid may exhibit mold after 1 year of storage (which wouldn’t affect the product performance).
+
+As we speak, does Gecko have the capability of selling probes using the ‘’first in’’ (oldest one) ‘’first out’’ (sold first) process?
+
+I am aware of the limitations and complexities of mass manufacturing, but the process described above is critical for our product.
+
+If we are unable, let me know how I can help and we’ll make this happen,
+
+Thanks for your feedback
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Implementing FIFO for Gecko Waterlab Probes  
+Category: Knowledge  
+Product: Gecko Waterlab  
+
+For optimal performance of the Gecko Waterlab, it is crucial to implement a First In, First Out (FIFO) process for managing probe components. This ensures that the oldest inventory is used first, thereby reducing the potential for storage-related issues. Specifically, the storage liquid within the probes has been noted by suppliers to potentially exhibit mold growth after a year in storage, although this does not impact the product's performance. By adhering to a FIFO process, Gecko Waterlab can mitigate any concerns regarding the quality and longevity of its components during storage. Establishing a reliable inventory management system to track and sell the earliest acquired probes first will help maintain product integrity even in a mass manufacturing context. Implementing such a process requires careful planning, but adhering to these guidelines ensures optimal operation and customer satisfaction."
+"Subject: RE: waterlab probe for Cal Spas
+
+Last measurement taken were in the vicinity of 11.2 pH
+
+ORP was ok and temperature dropped a lot
+
+We were under the impression that they took the probe outside of the spa and exposed it 
+
+They however swear that they didn’t do that
+
+Let me know if you need more information 
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Proper Handling of Waterlab Probes
+
+Category: Knowledge
+
+Product: Gecko Waterlab
+
+To ensure accurate readings, proper handling of Gecko Waterlab probes is essential. Incorrect handling, such as removing a probe from the spa environment and exposing it to the open air, can lead to erroneous measurement results. For instance, a measurement showing a pH of 11.2, which is unusually high, may suggest that the probe was exposed to conditions outside its intended operational environment. Similarly, unexpected fluctuations in temperature readings could indicate mishandling or environmental deviations.
+
+It is crucial to maintain the probe submerged in the spa water to prevent air interference and ensure stable readings for pH, ORP, and temperature. If unexpectedly high pH results are observed while the ORP is stable and temperature readings are inconsistent, reassessing the handling procedures of the probe may resolve these inconsistencies. Following manufacturer guidelines for usage and storage will promote accurate and reliable data collection for effective spa management."
+"Subject: Calibration
+
+Salut,
+
+Voici l’information que je voulais partager en ce qui concerne la calibration.
+
+Purpose :
+
+The idea is 
+
+Necessary equipment :
+
+*	Probe
+*	Cap (provided 
+
+	*	If a customer has lost his cap, he can order a spare one
+	*	This ‘’winterization kit’’ will thus be considered a spare part and thus will not require additional packaging
+
+*	Two pH liquids
+
+	*	These will be provided in the calibration kit which is a product which will be sold on the shelf
+
+How do we activate this calibration mode?
+
+The app will need 
+
+We want a feature that is both easy, intuitive and fool proof.
+
+The idea would thus 
+
+A warning would be given.
+
+The first step 
+
+A setup flow would follow (many of the images can be re-used 
+
+Step 
+
+1.	Click on the calibration button in the app
+2.	Button says something 
+3.	Scan the pH 7 bottle
+4.	Pour the pH 7 in the cap
+5.	Close the valves
+6.	Unscrew the probe
+7.	Keep the probe connected
+8.	Screw the cap on
+9.	Press on OK
+10.	Timer of 1-2 mins
+11.	Scan the pH 4 bottle
+12.	Get rid of the pH 7 within the cap
+13.	Rinse thoroughly the cap
+14.	Put the ph 4 in the cap
+15.	Screw the probe back on
+16.	Press on OK
+17.	Timer of 1-2 mins
+18.	OK probe calibrated
+19.	Screw back probe in chamber
+20.	Open the valves
+21.	Get rid of the pH 4 liquid
+22.	Clean the cap
+23.	Put water in the cap
+
+Tu me dira ce que tu en pense,
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Calibration Process for pH Probe
+Category: Knowledge
+Product: Gecko Waterlab
+
+The calibration of the pH probe for Gecko Waterlab products requires specific equipment and steps to ensure accuracy and reliability. Essential equipment includes the probe itself, a cap provided within a calibration kit, and two specifically calibrated pH liquids. If the cap is lost, it can be reordered as a spare part, avoiding unnecessary packaging costs. The process starts with initiating the calibration mode via the associated app, designed to be user-friendly and straightforward.
+
+To begin calibration, both pH 7 and pH 4 solutions are used. The user should first execute the in-app calibration by clicking the calibration button and following on-screen instructions. The instructions include details such as scanning the pH 7 bottle, using the solution as instructed, managing probe and valve operations, and following a detailed sequence to ensure proper operation and measurements. The flow involves scanning, pouring, and timing methods for both pH 7 and pH 4 solutions to ensure the probe is accurately calibrated. Finally, once the calibration is successful, it's essential to clean the cap with water to maintain the lifespan of the equipment and prepare for its next use."
+"Subject: RE: Latest Software
+
+Hey Mickey,
+
+Here’s what I got 
+
+If any accessory or pump is on, the ‘’ALL ON/OFF button’’ will turn blue 
+
+A press on the ‘’ALL on off button’’ will then turn off any active accessories  (light, pump, blower, waterfall) if the button is blue.
+
+If nothing is on, the ‘’all on/off button’’ will turn ON everything in the spa.
+
+Let me know if this makes sense,
+
+Thanks,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Functionality of the ""ALL ON/OFF"" Button for Spa Accessories
+Category: Knowledge
+Product: in.k1000
+
+The ""ALL ON/OFF"" button on the in.k1000 touchpad provides a convenient way to manage all spa accessories simultaneously. When any accessory such as lights, pumps, blowers, or waterfalls is active, this button will be highlighted in blue, indicating that some features are currently in use. Pressing the ""ALL ON/OFF"" button when it is blue will deactivate all active accessories, providing an efficient means to quickly turn off spa features without addressing each one individually. Conversely, if no accessories are active, pressing the button will activate all spa features simultaneously, turning on lights, pumps, blowers, and waterfalls at the same time. This dual functionality simplifies the user experience by offering comprehensive control over all spa functions from a single point, making it easier to ensure that the spa is either fully operational or completely powered down when desired."
+"Subject: VMS with Intouch 
+
+Hey Jim,
+
+Both intouch 2 and intouch 3 will treat the VMS as a simple pump.
+If the last ‘’request’’ was made 
+
+Does this make sense?
+
+Let me know,
+
+Thanks,
+
+Jérôme Landry
+
+Chef de produits | Product Line Manager 
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: VMS Integration with in.touch 2 and in.touch 3
+Category: Knowledge
+Product: in.touch 2, in.touch 3
+
+Both the in.touch 2 and in.touch 3 systems are designed to integrate seamlessly with various spa components, including the VMS (Variable Massage System). In terms of functionality, these in.touch systems treat the VMS akin to a simple pump. This means that their control logic interprets the commands and feedback from the VMS similarly to how it would manage standard pump operations.
+
+The implication of this treatment is primarily in how the VMS is activated and controlled through the user interface. Users can expect to schedule and operate the VMS with the same ease as they do with simpler pump systems, making for an intuitive and consistent user experience. This simplification can also facilitate easier troubleshooting and maintenance, aligning its function and feedback with the established parameters known for pump systems within the spa setup.
+
+By treating the VMS as a simple pump, the in.touch systems help streamline the integration process, making it straightforward for manufacturers to include these features in their spa products. This compatibility ensures that spa users can enjoy advanced functionality without added complexity in control."
+"Subject: Master Spas
+
+Jerome
+
+This is an email I got 
+
+Hey Jim.
+
+As follow up 
+
+00771262 Spa serial # 2408133 LW enterprise
+
+00771265 (jeff) /0070246 Spa serial # 2416525LW Inspire
+
+Dealer Message:
+
+One Legacy in the showroom spa not keeping time - 2408133.  It looses 2 minutes/day.
+Customer who is on their third YE3 pack not keeping time - 2416525, Brian Peterson.  His original topside, his original pack, and the two consecutive replacement YE3 packs have always been slow by 2 minutes/day.
+So far we bench tested both a new YE5 pack and a new YE3 pack 
+We also tested a good Gecko touchscreen 
+I just set up a second new YE3 pack 
+What are the chances that all three packs are defective timekeepers 
+Should we return all three new Gecko Packs, the one 5-button topside, or all of it for credit as defective timekeepers?
+I'm ordering three more 5-button topsides, one for stock and the others for the two aforementioned spas. 
+If Master Spas does not test them 
+
+Let me know what you find out on your end (if teams have heard of this before and, if so, what the potential solution is). 
+
+Customer Support Manager
+
+Master Spas
+
+6927 Lincoln Parkway, Fort Wayne, IN 46804
+
+(800) 860-7727 |CustomerService@MasterSpas.com <mailto:CustomerService@MasterSpas.com> 
+
+www.MasterSpas.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.masterspas.com%2F&data=05%7C02%7Cjlandry%40geckoal.com%7Cc7ce200e917a4057672e08dd5be9b9c4%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638767781581852623%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qWM7xuJdhWBg4XD03oW1YnIbeG8czz43JTt%2B4p86tsM%3D&reserved=0>","Title: Timekeeping Issue in YE3 Packs
+Category: Bug/Troubleshooting
+Product: in.ye
+
+In certain Gecko spa systems, a recurring issue with timekeeping in YE3 packs has been identified. Customers have reported that these packs are consistently losing approximately 2 minutes per day. This problem was observed across multiple units, even after replacements of both the YE3 packs and associated topside controls. Despite bench testing new YE5 packs and touchscreens, the issue persists.
+
+The possibility of a manufacturing defect affecting timekeeping across several units raises concerns about the current inventory's reliability. It is imperative that all affected units be inspected for this specific fault. If this issue is confirmed, returning the defective packs for credit and replacing them with functioning units should be prioritized.
+
+Manufacturers and spa technicians should be aware of this issue and advise customers experiencing similar problems to contact support. In the meantime, continue monitoring any new reports of time discrepancies to determine if this problem is widespread and if additional solutions are required."
+"Subject: Catalogue 2025 : new IN.K1000 &  IN.K1001 with cover
+
+Bonjour à tous,
+
+@Jean-Martin Simard <mailto:jmsimard@geckoal.com>  @Jerome Landry <mailto:jlandry@geckoal.com>  SVP réviser texte et part #s pour publication dans le catalogue 2025. En référence, voir page 10 de la version 2024 en p.j.
+
+@Véronique Saras <mailto:vsaras@geckoal.com>  Ma recommandation est de garder 0607-005033 & 0607-008087 et ajouter 0607-005042 & 0607-008152 au catalogue 2025.
+
+Introduce new IN.K1000 & IN.K1001 
+
+Code 0607-005042
+
+IN.K1000-BLACK--V2-GD
+
+Includes: in.k1000 color keypad 
+
+Cover: 9924-100205
+
+Dimensions: 7-½’’ x 5-¼’’ (19 x 13 cm)
+
+Cord length: 10’ (3 m)
+
+Compatible with: in.xe and Y Series systems
+
+Installation: MUST be installed on the OUTSIDE edge of the hot tub
+
+Code 0607-008152
+
+IN.K1001-V2-CL-GD
+
+Includes: in.k1001 color keypad 
+
+Cover: 9924-100205
+
+Dimensions: 6-3/16” x 3-7/8” (15.4 x 9.8 cm)
+
+Cord length: 10’ (3 m)
+
+Compatible with: in.xe and Y Series systems
+
+Installation: MUST be installed on the OUTSIDE edge of the hot tub","Title: IN.K1000 and IN.K1001 Installation Guidelines
+Category: Knowledge
+Product: in.k1000, in.k1001, in.xe
+
+The IN.K1000 and IN.K1001 keypads have been upgraded in the 2025 catalogue, featuring the in.k1000 and in.k1001 color keypads, each designed to enhance user interaction with their spa systems. Keypads in this series are fitted with a color display and are compatible with both in.xe and Y Series systems. Key installation specifications must be adhered to for optimal functionality and user experience. 
+
+Each keypad model includes a protective cover (9924-100205) to ensure durability and longevity of the product. For IN.K1000, its dimensions are 7-½’’ x 5-¼’’ (19 x 13 cm) and for IN.K1001, the dimensions are slightly smaller at 6-3/16” x 3-7/8” (15.4 x 9.8 cm). Both models share a cord length of 10’ (3 m), allowing flexible positioning around the hot tub area. 
+
+One pivotal aspect of installation is the requirement to mount these keypads on the outside edge of the hot tub. This placement guarantees ease of access and ensures that users can efficiently monitor and control spa settings without being obstructed by other spa components. Proper installation contributes to the enhanced performance of the spa, delivering consistent operation aligned with user expectations."
+"Subject: Issues and bugs with Intouch 3
+
+Hey Bullfrog team,
+
+I’ve compiled the recent issues we’ve encountered 
+
+As discussed in this week’s meeting, we would like 
+
+Let me know if I’m missing anything:
+
+Issues which will be solved 
+
+Due Date :  16th Mai
+
+Issues:
+
+*	Pump turning on when accessories are selected
+*	Updating the name of the app 
+*	UI bug during the setup flow 
+
+Issues which will be solved 
+
+Due Date :  30th Mai
+
+Issues
+
+*	The ‘’waiting for water sample’’ issue 
+
+Troubleshooting:
+
+Sherry’s unit
+
+Issue : The intouch 3 is unable 
+
+Cause : The root cause is (in very high likelihood) due 
+
+Solution : Both @Chris Kamerath <mailto:ckamerath@bullfrogspas.com>  and @Cory Shorr <mailto:cshorr@bullfrogspas.com>  said that they would take Sherry’s unit, pair it at their place and then re-install it in her hot tub.
+
+Further investigation : Additional tests at our Quebec facility will be necessary 
+
+Call 
+
+Due Date : 7th of May
+
+Jake’s probe
+
+Issue : Jake’s probe has been giving a pH and ORP reading which are very off
+
+Cause : The tolerance on the ceramic junction of the probe was off, the KCl has leaked (nothing dangerous there!) and as such, the reference of the probe is completely off
+
+Solution : Gecko has sent another probe 
+
+Further investigation : A picture of Jake’s current probe would be required 
+
+Call 
+
+Due Date : 7th of May
+
+Duane’s unit
+
+Issue : Duane has issues connecting his intouch 3 
+
+Cause : Networking appears 
+
+Solution : This is a new issue which arose, no solution have been provided yet
+
+Further investigation : Gecko will need 
+
+Call 
+
+Due Date : 15th of May
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Troubleshooting Pump Activations When Selecting Accessories
+Category: Bug/Troubleshooting
+Product: pumps
+
+During the operation of the pump system in spa configurations, an issue has been identified where the pump inadvertently activates whenever specific accessories are selected. This behavior disrupts the normal operation and user experience. The occurrence suggests a potential misconfiguration or a bug within the controlling interface that links accessory triggers to pump activation. Technicians and end-users should verify the wiring and configuration settings within the control panel to ensure that each accessory function is correctly isolated from the pump operation. Additional firmware updates and troubleshooting guides will be made available to rectify this aberration and restore expected functionality."
+"Subject: Issues and bugs with Intouch 3
+
+Hey Bullfrog team,
+
+I’ve compiled the recent issues we’ve encountered 
+
+As discussed in this week’s meeting, we would like 
+
+Let me know if I’m missing anything:
+
+Issues which will be solved 
+
+Due Date :  16th Mai
+
+Issues:
+
+*	Pump turning on when accessories are selected
+*	Updating the name of the app 
+*	UI bug during the setup flow 
+
+Issues which will be solved 
+
+Due Date :  30th Mai
+
+Issues
+
+*	The ‘’waiting for water sample’’ issue 
+
+Troubleshooting:
+
+Sherry’s unit
+
+Issue : The intouch 3 is unable 
+
+Cause : The root cause is (in very high likelihood) due 
+
+Solution : Both @Chris Kamerath <mailto:ckamerath@bullfrogspas.com>  and @Cory Shorr <mailto:cshorr@bullfrogspas.com>  said that they would take Sherry’s unit, pair it at their place and then re-install it in her hot tub.
+
+Further investigation : Additional tests at our Quebec facility will be necessary 
+
+Call 
+
+Due Date : 7th of May
+
+Jake’s probe
+
+Issue : Jake’s probe has been giving a pH and ORP reading which are very off
+
+Cause : The tolerance on the ceramic junction of the probe was off, the KCl has leaked (nothing dangerous there!) and as such, the reference of the probe is completely off
+
+Solution : Gecko has sent another probe 
+
+Further investigation : A picture of Jake’s current probe would be required 
+
+Call 
+
+Due Date : 7th of May
+
+Duane’s unit
+
+Issue : Duane has issues connecting his intouch 3 
+
+Cause : Networking appears 
+
+Solution : This is a new issue which arose, no solution have been provided yet
+
+Further investigation : Gecko will need 
+
+Call 
+
+Due Date : 15th of May
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Addressing the 'Waiting for Water Sample' Delay
+Category: Bug/Troubleshooting
+Product: Gecko Waterlab
+
+A persistent issue with the Gecko Waterlab system is the recurring 'waiting for water sample' notification delay. This problem indicates that the system is not receiving immediate feedback from sensors, which could be due to sensor calibration issues or a delay in water sample processing. Users are advised to check the sensor connections and ensure that the sampling mechanism is free of obstructions. Calibration should be done following the manufacturer's guidelines to guarantee accurate sample detection. Further technical support may be required if the problem persists after these checks."
+"Subject: Issues and bugs with Intouch 3
+
+Hey Bullfrog team,
+
+I’ve compiled the recent issues we’ve encountered 
+
+As discussed in this week’s meeting, we would like 
+
+Let me know if I’m missing anything:
+
+Issues which will be solved 
+
+Due Date :  16th Mai
+
+Issues:
+
+*	Pump turning on when accessories are selected
+*	Updating the name of the app 
+*	UI bug during the setup flow 
+
+Issues which will be solved 
+
+Due Date :  30th Mai
+
+Issues
+
+*	The ‘’waiting for water sample’’ issue 
+
+Troubleshooting:
+
+Sherry’s unit
+
+Issue : The intouch 3 is unable 
+
+Cause : The root cause is (in very high likelihood) due 
+
+Solution : Both @Chris Kamerath <mailto:ckamerath@bullfrogspas.com>  and @Cory Shorr <mailto:cshorr@bullfrogspas.com>  said that they would take Sherry’s unit, pair it at their place and then re-install it in her hot tub.
+
+Further investigation : Additional tests at our Quebec facility will be necessary 
+
+Call 
+
+Due Date : 7th of May
+
+Jake’s probe
+
+Issue : Jake’s probe has been giving a pH and ORP reading which are very off
+
+Cause : The tolerance on the ceramic junction of the probe was off, the KCl has leaked (nothing dangerous there!) and as such, the reference of the probe is completely off
+
+Solution : Gecko has sent another probe 
+
+Further investigation : A picture of Jake’s current probe would be required 
+
+Call 
+
+Due Date : 7th of May
+
+Duane’s unit
+
+Issue : Duane has issues connecting his intouch 3 
+
+Cause : Networking appears 
+
+Solution : This is a new issue which arose, no solution have been provided yet
+
+Further investigation : Gecko will need 
+
+Call 
+
+Due Date : 15th of May
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Resolving InTouch 3 Connection Challenges
+Category: Bug/Troubleshooting
+Product: in.touch 3
+
+Several users have reported connectivity difficulties with the in.touch 3 units, affecting their ability to maintain a stable connection to network services. These issues primarily arise from network configuration settings, requiring users to review Wi-Fi credentials and ensure sufficient signal strength in the device's location. Network troubleshooting steps such as resetting the router, verifying secure network access, and updating to the latest firmware are recommended to solve connectivity glitches. A forthcoming patch may address these connection issues more robustly."
+"Subject: Issues and bugs with Intouch 3
+
+Hey Bullfrog team,
+
+I’ve compiled the recent issues we’ve encountered 
+
+As discussed in this week’s meeting, we would like 
+
+Let me know if I’m missing anything:
+
+Issues which will be solved 
+
+Due Date :  16th Mai
+
+Issues:
+
+*	Pump turning on when accessories are selected
+*	Updating the name of the app 
+*	UI bug during the setup flow 
+
+Issues which will be solved 
+
+Due Date :  30th Mai
+
+Issues
+
+*	The ‘’waiting for water sample’’ issue 
+
+Troubleshooting:
+
+Sherry’s unit
+
+Issue : The intouch 3 is unable 
+
+Cause : The root cause is (in very high likelihood) due 
+
+Solution : Both @Chris Kamerath <mailto:ckamerath@bullfrogspas.com>  and @Cory Shorr <mailto:cshorr@bullfrogspas.com>  said that they would take Sherry’s unit, pair it at their place and then re-install it in her hot tub.
+
+Further investigation : Additional tests at our Quebec facility will be necessary 
+
+Call 
+
+Due Date : 7th of May
+
+Jake’s probe
+
+Issue : Jake’s probe has been giving a pH and ORP reading which are very off
+
+Cause : The tolerance on the ceramic junction of the probe was off, the KCl has leaked (nothing dangerous there!) and as such, the reference of the probe is completely off
+
+Solution : Gecko has sent another probe 
+
+Further investigation : A picture of Jake’s current probe would be required 
+
+Call 
+
+Due Date : 7th of May
+
+Duane’s unit
+
+Issue : Duane has issues connecting his intouch 3 
+
+Cause : Networking appears 
+
+Solution : This is a new issue which arose, no solution have been provided yet
+
+Further investigation : Gecko will need 
+
+Call 
+
+Due Date : 15th of May
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Probe Tolerance Issues and Replacement Procedure
+Category: Bug/Troubleshooting
+Product: Gecko Waterlab
+
+A malfunctioning probe was identified due to off-tolerance levels on the ceramic junction, resulting in inaccurate pH and ORP readings. This discrepancy was caused by the KCl electrolyte solution leaking and altering the reference metrics of the probe. Users experiencing similar issues should follow the probe replacement guidelines provided by the manufacturer, including verifying proper installation and connection settings after replacing the probe. Ensuring the integrity of the sealing and storage procedures can prevent such issues in the future."
+"Subject: RE: 774 & 785 Topside/Keypad part #s ---  Re: 785 Rev 3 Firmware, LL 1 UV Bulb Reminder
+
+Larry/Robert,
+
+I’ve done a deep dive on the inner working of our products, so I’ll go in a bit more details 
+
+The key 
+
+One of the main components of this interaction is the configuration file which is denoted 
+
+This file doesn’t only map out the link between the relays and the corresponding accessories (like pumps, lights, waterfall, blowers, etc.) it also includes a customer ID which is unique 
+
+All this information is shared 
+
+The keypad will thus not only associate the pump 1 action 
+
+In this specific and case, the UV Bulb reminder is a reminder enabled on the k1000 keypad through the configuration file of a hydropool pack.
+
+Finally, the k1000 also has an embedded software which can be unique per customer.
+
+The k1000 software will be responsible for the visuals like icons, background color and screensavers (like showing the company’s logo).
+
+All in all, 
+
+If you also want 
+
+For that reason, we do not suggest mix and matching keypads 
+
+Hope this clarifies this situation,
+
+If further information is necessary or you have additional questions, I’d be happy 
+
+Thanks,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: UV Bulb Reminder Configuration on the k1000 Keypad
+Category: Knowledge
+Product: in.k1000
+
+The k1000 keypad is a critical interface component that offers various embedded functionalities essential for spa maintenance and operation. One notable feature is the UV Bulb reminder, which is a part of the keypad’s configuration file within a hydropool pack. This feature can be tailored according to specific requirements set in the configuration file, which also maps out the connection of various components like relays, pumps, lights, and other accessories. Each configuration file incorporates a unique customer ID, ensuring a personalized setup for each end-user.
+
+The k1000 keypad not only oversees such operational reminders but also manages aesthetic aspects such as iconography, background colors, and screensavers. These customizable features aim to enhance user experience by allowing specific brand elements, like a company’s logo, to be displayed. It is advisable to refrain from swapping keypads between systems to maintain these customized settings, ensuring full operational integrity and aesthetic consistency. Understanding and utilizing these features effectively can significantly enhance both the operational efficiency and user interaction with spa systems."
+"Subject: RE: In.Touch 2 problem
+
+
+
+We’ve launched the intouch 3 product which now works with a pairing code 
+
+This process is done through the Gecko app (which has the following icon 
+
+If what was sold is the intouch 2, then the following app should be used and no such QR code is required
+
+Hope this helps,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Transition from In.Touch 2 to In.Touch 3 Pairing Process
+Category: Knowledge
+Product: in.touch 2, in.touch 3
+
+With the launch of the In.Touch 3 product, there has been a change in the pairing process for connecting the device to the Gecko app. The latest In.Touch 3 model utilizes a pairing code, which enhances the security and connection reliability between the spa product and the control application. This process is incorporated into the Gecko app, providing a seamless setup experience for end-users using this new model.
+
+For users who have the In.Touch 2 product, the setup method remains unchanged. The In.Touch 2 interfaces through a different version of the app where no QR code or pairing code is required. Users simply need to follow the established steps to connect their device as they have in the past.
+
+It's important for both manufacturers assembling these spa control systems and end-users to correctly identify their product model. This ensures the correct app and method are used for setup, thereby avoiding potential connection issues or user frustration. Proper identification and understanding of these new connection protocols are vital for leveraging the advancements in the In.Touch 3 system."
+"Subject: RE: Warning message- Signature 655P 2024 model
+
+Hey Lucas,
+
+We have a quick fix for this, but we have also identified the issue as an ongoing problem.
+
+As such, if this is an ongoing customer issue, I would suggest using the hotfix.
+
+If you have problematic components laying around, we will gladly take them 
+
+The quick fix is as simple as resetting the power on the spa.
+
+We’ve observed that a delay between the pack booting up and the keypad booting up is the cause for this issue.
+
+Basically, the pack will boot up faster than the keypad, tell the system that no keypad has been detected and THEN the keypad will boot up.
+
+This booting mismatch has not been carefully characterised as we have had issues reproducing the issue.
+
+Our current theory would be that there is a link between the grid and this behavior.
+
+As such, we suggest rebooting the spa until both the keypad and pack boot adequately.
+
+Could you also provide additional information on the location of that issue and its prevalence?
+
+Thanks,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Pack and Keypad Boot Mismatch: Quick Fix and Ongoing Solutions  
+Category: Bug/Troubleshooting  
+Product: in.k1000
+
+A persistent issue has been identified regarding the boot sequence of the Gecko spa system, specifically involving the pack and the keypad components. Users have reported a mismatch in the boot-up speed between the pack and the keypad. The system experiences a delay where the pack boots up faster than the keypad, causing the system to register that no keypad is detected, even though the keypad eventually boots up. Although reproducing this issue consistently has proved challenging, it appears to be linked with power grid behavior.
+
+The immediate solution to resolve this booting mismatch is simply to reset the power in the spa system. By rebooting the system, a user can ensure that both the pack and keypad synchronize their boot-up processes adequately. This temporary fix ensures the system recognizes the keypad properly, allowing users to continue using their spa without further disruptions. However, users encountering this issue frequently are encouraged to report the specific occurrences and their locations to support staff for further investigation and potential long-term solutions."
+"Subject: RE: 2406656; 772921; Water Temp Discrepancy
+
+Hey Jim,
+
+I’ve looked through our documentation.
+
+Here is the information I found:
+
+For the in.ye/yt-v2 RegSlope error is detected when temperature of the regulation probe rise more than 1.3°F during first minutes of heater activation.
+
+Now as for the variability in temperature (between a thermometer in the water and the thermometer within the heater) this can depend on a lot of factors.
+One of them is that water temperature is never homogeneous, and the hottest water will always be situated just beside the heater.
+
+I can go in
+
+Let me know if this makes sense,
+
+Thanks,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Understanding RegSlope Error and Temperature Variability in Spa Heaters
+Category: Bug/Troubleshooting
+Product: in.ye
+
+The RegSlope error in the Gecko in.ye spa heaters is detected when the temperature of the regulation probe rises more than 1.3°F during the initial minutes of heater activation. This indicates a potential malfunction or error in the temperature regulation system. Spa heaters rely on accurate temperature readings to maintain the desired water temperature efficiently. If the regulation probe indicates a temperature rise exceeding this threshold, it might be due to several factors including probe placement or heat distribution inefficiencies within the heater unit.
+
+One common issue related to spa heater temperature discrepancies is the variance between the temperature reading from the heater's internal thermometer and a separate thermometer placed in the water. Water temperature can vary throughout the tub, and the water near the heater tends to be the hottest, affecting internal sensor readings. To address this, ensure that the water in the spa is circulating properly to distribute heat evenly. In addition, regularly calibrate thermometers and check for any obstructions or issues in the heater's probe or associated components for accurate readings. Following this will help in minimizing temperature discrepancies and optimizing the spa’s performance."
+"Subject: RE: Warranty Parts Returns - Gecko
+
+Hey Kirk/Justin,
+
+I’ve checked internally 
+
+Here’s the information I managed 
+
+We use 9920-101535 in YE3 systems and 9920-101435 in YE5 systems.
+
+There’s no issue using the 101435 heater in a YE3
+
+In some YE5 configurations, the 101535 might not have enough ground bound openings.
+
+That’s why we standardize on 101435 as the replacement part for both models. 
+
+It fits both and avoids compatibility issues.
+
+Hope this clarifies your questions,
+
+Let me know if you need additional information,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Standardizing Replacement Heater Parts for YE3 and YE5 Systems  
+Category: Knowledge  
+Product: in.ye
+
+The in.ye series, specifically the YE3 and YE5 systems, utilize two different heater models: the 9920-101535 for the YE3 and the 9920-101435 for the YE5. However, there is flexibility in using these components across both systems. It has been clarified that the 101435 heater, typically used in YE5 configurations, can also be effectively used in YE3 systems without any functional issues.
+
+The primary reason for this standardization is that certain configurations of the YE5 systems may not support the ground bound openings of the 101535 heater model. To ensure compatibility and to simplify the replacement process for manufacturers and users, the 101435 model is recommended as the universal replacement part for both the YE3 and YE5 models. This approach minimizes the risk of compatibility issues during the replacement process and eases the management of spare parts inventory."
+"Subject: RE: Tyler Ch21D H250357
+
+Hey Kirk,
+
+UART is the communication protocol between the pump and the pack.
+It appears that this is not rightfully detected.
+
+We tend 
+
+Before having you ship the unit back 
+
+*	Power cycle 
+*	Inspect if the cable connection is securely connected between the pack and the pump
+*	Ensure that the VMS is expected 
+
+	*	I can help 
+
+*	Test 
+
+Let me know what comes out of it
+
+Thanks,
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Troubleshooting UART Communication Issues Between Pump and Pack  
+Category: Bug/Troubleshooting  
+Product: pumps
+
+In spa systems, UART (Universal Asynchronous Receiver-Transmitter) is a crucial communication protocol used to facilitate interaction between the pump and the pack. Sometimes, this communication link may not be properly detected, leading to operational issues. Before considering the return of the unit, there are several steps that users can undertake to resolve this problem. 
+
+Firstly, a power cycle of the system is recommended. This involves turning off the entire spa unit, waiting a few moments, and then restarting it. This simple action can sometimes reset the communication link and resolve detection issues. Secondly, it's important to inspect the physical cable connections between the pack and the pump, ensuring that all connections are secure and properly seated. Loose or corroded connections can impede the UART communication pathway. 
+
+Lastly, users should verify the correct configuration of the VMS (Variable Motor Speed) setting as expected for their system. This ensures that any ongoing communication between components is aligned with the expected parameters. If further issues persist, assistance from a technical support representative may be required to conduct more advanced diagnostic tests and guide the resolution process."
+"Subject: RE: In.Mix Issue
+
+Hey Kirk,
+
+Temperature Monitoring Behavior / Temperature Algorithm
+
+While, as mentioned below, I cannot go in
+
+For the feedback loop, here’s what I can share:
+
+Once the user inputs a new setpoint 
+
+The heater will then activate (depending on the data acquired) and the system up 
+
+Here’s what happens to ‘’recheck’’ if the water temperature is still at the set point.
+
+In.Mix
+
+I’ve checked our internal documentation related 
+Here’s what I found:
+
+The issue was formally escalated, and an R&D project was opened internally after the site visit in Wisconsin.
+
+During that visit, our engineers detected high-frequency noise on the temperature probe, which increased when the LED harnesses were connected. 
+
+This reinforced our initial hypothesis that noise was being introduced via the 2-wire DC spa light output, likely due 
+
+While a definitive field solution (like a filter) was not immediately finalized, the engineering team has been exploring potential mitigations. 
+
+At the time, using a custom in.mix 300 unit configured 
+
+Since then, the case was moved 
+
+Next step on my side is 
+
+Let me know if this makes sense for both the water regulation and in.mix 
+
+Jérôme Landry
+
+Support aux ventes externes
+Outside technical sales
+
+P +1-418-573-3403
+ jlandry@geckoal.com <mailto:splante@geckoal.com>  | Geckoalliance.com <https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgeckoalliance.com%2F&data=05%7C01%7Cjlandry%40geckoal.com%7C5d9d195c23b2455d24a408dbdf057b8d%7Cf193f6f562be492d897d776cde125585%7C0%7C0%7C638348986857173504%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6Qv3mXtL%2BXP9%2FHXfOYeKQfTB%2FuiMp73X322WZvh9uBA%3D&reserved=0>   
+450 Des Canetons, Québec, QC, G2E 5W6, Canada","Title: Temperature Monitoring and High-Frequency Noise Issue in In.Mix
+Category: Bug/Troubleshooting
+Product: 
+
+During a site visit in Wisconsin, engineers detected an issue involving high-frequency noise affecting the temperature probe of the In.Mix system. This interference increased with the connection of LED harnesses, corroborating suspicions that noise was being introduced through the 2-wire DC spa light output. Although a definitive solution—such as installing a filter—has yet to be finalized, the engineering team is actively investigating potential mitigations. Currently, custom configurations of the in.mix 300 unit are being explored as a temporary measure. Future updates aim to address both water regulation and system design to prevent such noise interference."
